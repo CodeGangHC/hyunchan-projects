@@ -6,7 +6,7 @@ from tkinter import filedialog # has to import submodule
 from PIL import Image
 
 root = Tk()
-root.title("Gang's GUI")
+root.title("Image Combiner")
 
 # file frame (add file, delete file)
 file_frame = Frame(root)
